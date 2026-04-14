@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "components": {
+    "bot": {
+      "version": "0.0.2",
+      "url": "https://github.com/StevieSenpai/DiscordCAT_Live/releases/download/v0.0.2/bot.zip",
+      "sha256": "HASH_REAL_BOT"
+    },
+    "panel": {
+      "version": "0.0.2",
+      "url": "https://github.com/StevieSenpai/DiscordCAT_Live/releases/download/v0.0.2/webpanel.zip",
+      "sha256": "HASH_REAL_PANEL"
+    },
+    "launcher": {
+      "version": "0.0.1",
+      "url": "https://github.com/StevieSenpai/DiscordCAT_Live/releases/download/v0.0.1/launcher.zip",
+      "sha256": "HASH_REAL_LAUNCHER"
+    }
+  }
+}
